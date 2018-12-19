@@ -3,8 +3,8 @@
 Allows you to buy Lilly's Pet House from the Infinity Mart
 
 ^#A451C4;Github:^#FFFFFF; ^#9BBA3D;https://github.com/thakyZ/LillyMod_PurchasablePets^#FFFFFF;
-^#A451C4;Steam Workshop:^#FFFFFF; ^#9BBA3D;https://^#FFFFFF;
-^#A451C4;Chucklefish Forums:^#FFFFFF; ^#9BBA3D;https://^#FFFFFF;
+^#A451C4;Chucklefish Forums:^#FFFFFF; ^#9BBA3D;https://community.playstarbound.com/resources/lillymod-purchasable-pets-patch.5620/^#FFFFFF;
+^#A451C4;Steam Workshop:^#FFFFFF; ^#9BBA3D;https://steamcommunity.com/sharedfiles/filedetails/?id=1595365078^#FFFFFF;
 
 This mod requires Purchaseable Pets by Swat | Elite.
 ^#A451C4;Chucklefish Forums:^#FFFFFF; ^#9BBA3D;https://community.playstarbound.com/resources/purchasable-pets.2854/^#FFFFFF;
