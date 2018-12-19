@@ -1,0 +1,9 @@
+{
+  "version" : "1.0.0",
+  "author" : "thakyZ",
+  "name" : "LillyMod_PurchasablePets",
+  "steamContentId" : "729438381",
+  "friendlyName" : "LillyMod Purchasable Pets Patch",
+  "includes" : ["LillyMod", "p_Pets"],
+  "requires" : ["p_Pets"]
+}
