@@ -1,7 +1,7 @@
 {
   "version" : "1.0.0",
   "author" : "thakyZ",
-  "description" : "Overview:\nThis mod removes the starting pet and allows you to buy which ever starting pet you wish.\nBuy pets at Infinity Express\nUse Pet trap to remove unwanted pets.\nThis mod will remove custom pets of custom races if they use the vanillia method of spawning ( tech station ). \nBut you won't be able to buy custom race pets without a seperate mod.\n\nUpdate 1.2.\nFixed a small issue in pet trap code. Should now cleanly remove the pet without errors. \n\nUpdate 1.3 Emergency Bug Fix \nAccidently duplicated an entry. ",
+  "description" : "^#EA9931;Loyal space kitten for all!~^#FFFFFF;\n\nAllows you to buy Lilly's Pet House from the Infinity Mart\n\n^#A451C4;Github:^#FFFFFF; ^#9BBA3D;https://github.com/thakyZ/LillyMod_PurchasablePets^#FFFFFF;\n^#A451C4;Steam Workshop:^#FFFFFF; ^#9BBA3D;https://^#FFFFFF;\n^#A451C4;Chucklefish Forums:^#FFFFFF; ^#9BBA3D;https://^#FFFFFF;\n\nThis mod requires Purchaseable Pets by Swat | Elite.\n^#A451C4;Chucklefish Forums:^#FFFFFF; ^#9BBA3D;https://community.playstarbound.com/resources/purchasable-pets.2854/^#FFFFFF;\n^#A451C4;Steam Workshop:^#FFFFFF; ^#9BBA3D;https://steamcommunity.com/sharedfiles/filedetails/?id=729438381^#FFFFFF;",
   "name" : "LillyMod_PurchasablePets",
   "steamContentId" : "729438381",
   "friendlyName" : "LillyMod Purchasable Pets Patch",
