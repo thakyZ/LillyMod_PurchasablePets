@@ -1,0 +1,9 @@
+{
+  "name" : "petlilly",
+  "category" : "petlilly",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "lilly.png"
+  }
+}
