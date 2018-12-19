@@ -1,10 +1,12 @@
 {
-  "version" : "1.0.0",
   "author" : "thakyZ",
-  "name" : "LillyMod_PurchasablePets",
-  "steamContentId" : "729438381",
   "description" : "^#EA9931;Loyal space kitten for all!~^#FFFFFF;\n\nAllows you to buy Lilly's Pet House from the Infinity Mart\n\n^#A451C4;Github:^#FFFFFF; ^#9BBA3D;https://github.com/thakyZ/LillyMod_PurchasablePets^#FFFFFF;\n^#A451C4;Chucklefish Forums:^#FFFFFF; ^#9BBA3D;https://community.playstarbound.com/resources/lillymod-purchasable-pets-patch.5620/^#FFFFFF;\n^#A451C4;Steam Workshop:^#FFFFFF; ^#9BBA3D;https://steamcommunity.com/sharedfiles/filedetails/?id=1595365078^#FFFFFF;\n\nThis mod requires Purchaseable Pets by Swat | Elite.\n^#A451C4;Chucklefish Forums:^#FFFFFF; ^#9BBA3D;https://community.playstarbound.com/resources/purchasable-pets.2854/^#FFFFFF;\n^#A451C4;Steam Workshop:^#FFFFFF; ^#9BBA3D;https://steamcommunity.com/sharedfiles/filedetails/?id=729438381^#FFFFFF;",
   "friendlyName" : "LillyMod Purchasable Pets Patch",
   "includes" : ["LillyMod", "p_Pets"],
-  "requires" : ["p_Pets"]
+  "link" : "steam://url/CommunityFilePage/1595365078",
+  "name" : "LillyMod_PurchasablePets",
+  "requires" : ["p_Pets"],
+  "steamContentId" : "1595365078",
+  "tags" : "NPCs and Creatures",
+  "version" : "1.0.0"
 }
